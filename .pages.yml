@@ -1,0 +1,47 @@
+media:
+  input: site/img
+  output: /img
+  rename: safe
+  extensions: [jpg, jpeg, png, webp]
+content:
+  - name: site
+    label: Website content
+    type: file
+    path: content/site.json
+    format: json
+    fields:
+      - name: announcement
+        label: Announcement banner
+        type: object
+        fields:
+          - name: show
+            label: Show the banner on the website
+            type: boolean
+          - name: text
+            label: Banner message
+            type: string
+      - name: hours_short
+        label: Hours (short version, top of the homepage)
+        type: string
+      - name: hours_long
+        label: Hours (full version, Visit section)
+        type: string
+      - name: closed_days
+        label: Closed days
+        type: string
+      - name: cases_heading
+        label: Heading above the case photos
+        type: string
+      - name: gallery
+        label: Case photos
+        type: object
+        list:
+          min: 4
+          max: 4
+        fields:
+          - name: photo
+            label: Photo
+            type: image
+          - name: description
+            label: What's in the photo
+            type: string

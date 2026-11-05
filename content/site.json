@@ -1,0 +1,16 @@
+{
+  "announcement": {
+    "show": false,
+    "text": "Open regular hours this week."
+  },
+  "hours_short": "Tuesday to Saturday, 10 to 6",
+  "hours_long": "Tuesday to Saturday, 10 AM to 6 PM",
+  "closed_days": "Closed Sunday and Monday",
+  "cases_heading": "From the cases.",
+  "gallery": [
+    { "photo": "/img/pear-gold.jpg", "description": "Pear-shaped diamond solitaire in yellow gold" },
+    { "photo": "/img/emerald.jpg", "description": "Emerald ring with side stones on a display stand" },
+    { "photo": "/img/rings-hand.jpg", "description": "Diamond rings worn on a hand" },
+    { "photo": "/img/bridal-wide.jpg", "description": "Engagement rings on cream display boxes at Afram's" }
+  ]
+}
