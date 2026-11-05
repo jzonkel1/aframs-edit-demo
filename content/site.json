@@ -1,9 +1,8 @@
 {
   "announcement": {
     "show": false,
-    "text": "Test: closed Thanksgiving Day. Open Friday at 10."
+    "text": ""
   },
-  "hours_short": "Tuesday to Saturday, 10 to 6",
   "hours_long": "Tuesday to Saturday, 10 AM to 6 PM",
   "closed_days": "Closed Sunday and Monday",
   "cases_heading": "From the cases.",
@@ -17,8 +16,8 @@
       "description": "Emerald ring with side stones on a display stand"
     },
     {
-      "photo": "/img/new-case-photo-test.jpg",
-      "description": "Three Seiko watches side by side"
+      "photo": "/img/rings-hand.jpg",
+      "description": "Diamond rings worn on a hand"
     },
     {
       "photo": "/img/bridal-wide.jpg",

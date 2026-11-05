@@ -20,11 +20,8 @@ content:
           - name: text
             label: Banner message
             type: string
-      - name: hours_short
-        label: Hours (short version, top of the homepage)
-        type: string
       - name: hours_long
-        label: Hours (full version, Visit section)
+        label: Store hours
         type: string
       - name: closed_days
         label: Closed days
