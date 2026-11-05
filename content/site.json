@@ -1,16 +1,28 @@
 {
   "announcement": {
-    "show": false,
-    "text": "Open regular hours this week."
+    "show": true,
+    "text": "Test: closed Thanksgiving Day. Open Friday at 10."
   },
   "hours_short": "Tuesday to Saturday, 10 to 6",
   "hours_long": "Tuesday to Saturday, 10 AM to 6 PM",
   "closed_days": "Closed Sunday and Monday",
-  "cases_heading": "From the cases.",
+  "cases_heading": "New in the cases this week.",
   "gallery": [
-    { "photo": "/img/pear-gold.jpg", "description": "Pear-shaped diamond solitaire in yellow gold" },
-    { "photo": "/img/emerald.jpg", "description": "Emerald ring with side stones on a display stand" },
-    { "photo": "/img/rings-hand.jpg", "description": "Diamond rings worn on a hand" },
-    { "photo": "/img/bridal-wide.jpg", "description": "Engagement rings on cream display boxes at Afram's" }
+    {
+      "photo": "/img/pear-gold.jpg",
+      "description": "Pear-shaped diamond solitaire in yellow gold"
+    },
+    {
+      "photo": "/img/emerald.jpg",
+      "description": "Emerald ring with side stones on a display stand"
+    },
+    {
+      "photo": "/img/rings-hand.jpg",
+      "description": "Diamond rings worn on a hand"
+    },
+    {
+      "photo": "/img/bridal-wide.jpg",
+      "description": "Engagement rings on cream display boxes at Afram's"
+    }
   ]
 }
