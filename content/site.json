@@ -1,12 +1,12 @@
 {
   "announcement": {
-    "show": true,
+    "show": false,
     "text": "Test: closed Thanksgiving Day. Open Friday at 10."
   },
   "hours_short": "Tuesday to Saturday, 10 to 6",
   "hours_long": "Tuesday to Saturday, 10 AM to 6 PM",
   "closed_days": "Closed Sunday and Monday",
-  "cases_heading": "New in the cases this week.",
+  "cases_heading": "From the cases.",
   "gallery": [
     {
       "photo": "/img/pear-gold.jpg",
